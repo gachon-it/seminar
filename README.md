@@ -17,7 +17,7 @@
 
 ### slots
 - Slot1 = (학부생중에 진행해본 공모전 경험/꿀팁 전수해주실 연사님 구해요)
-- Slot2 = 조용진(당근마켓:서버개발) - 학부레벨로 '검색'기능 쉽게 만들기 / 학부레벨로 '검색'기능 열심히 만들기 [LINK1](./docs/20220329_lets_make_search.key) [LINK2](./docs/20220329_elasticsearch_araboza.key)
+- Slot2 = 조용진(당근마켓:서버개발) - 학부레벨로 '검색'기능 쉽게 만들기 / 학부레벨로 '검색'기능 열심히 만들기 [LINK1](./docs/20220329_lets_make_search.pdf) [LINK2](./docs/20220329_elasticsearch_araboza.pdf)
 - Slot3 = 이정윤(? _ ?) - 자유주제
 - Slot4 = 심호진(? _ ?) - 자유주제/(이력서/면접 관련)
 
@@ -30,7 +30,7 @@
 ### slots
 - Slot1 = 조용진(당근마켓:서버개발) - 모임소개 / 개회사 / 발표주제
 - Slot2 = 한결(가천대 단대장) - 자유주제
-- Slot3 = 강경수(스타트업) - (가칭: 네이버 부스트캠프 이야기)
+- Slot3 = 강경수(스타트업) - 가칭: 네이버 부스트캠프 이야기 [](./docs/20220222_kakasoo_how_to_study.pdf)
 - Slot4 = 김승욱(당근마켓:프론트) - 자유주제
 
 ### gallary
