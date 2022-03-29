@@ -9,17 +9,25 @@
 오픈카톡방: https://open.kakao.com/o/gxnZ4Z3b
 비밀번호: 갗대인만 아는거 그 건물: (****** TOWER)
 
+# 3번째 모임 (2022년 4월 26일 화요일 오후 8시)
 
-# 2번째 모임 (2022년 2월 22일 화요일 오후 8시)
+- [참가신청 Link](https://forms.gle/ny6C7AeZ4AE3RNiT7)
+- [모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
+
+### slots
+- Slot1 = [모집중]
+- Slot2 = [모집중]
+- Slot3 = [모집중]
+
+# [종료] 2번째 모임 (2022년 3월 29일 화요일 오후 8시)
 
 - [참가신청 Link](https://forms.gle/Ggkkpyn1nQjzUzVEA)
 - [모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
 
 ### slots
-- Slot1 = (학부생중에 진행해본 공모전 경험/꿀팁 전수해주실 연사님 구해요)
-- Slot2 = 조용진(당근마켓:서버개발) - 학부레벨로 '검색'기능 쉽게 만들기 / 학부레벨로 '검색'기능 열심히 만들기 [LINK1](./docs/20220329_lets_make_search.pdf) [LINK2](./docs/20220329_elasticsearch_araboza.pdf)
-- Slot3 = 이정윤(? _ ?) - 자유주제
-- Slot4 = 심호진(? _ ?) - 자유주제/(이력서/면접 관련)
+- Slot1 = 조용진(당근마켓) - 학부레벨로 '검색'기능 쉽게 만들기 / 학부레벨로 '검색'기능 열심히 만들기 [LINK1](./docs/20220329_lets_make_search.pdf) [LINK2](./docs/20220329_elasticsearch_araboza.pdf)
+- Slot2 = 이정윤(당근마켓) - 역마살이낀 FE 이야기 [LINK](./docs/20220329_move_move_fe_story.pdf)
+- Slot3 = 심호진(무신사) - 이력서/면접(준비중)
 
 
 # [종료] 1번째 모임 (2022년 2월 22일 화요일 오후 8시)
