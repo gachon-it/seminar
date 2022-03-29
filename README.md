@@ -30,7 +30,7 @@
 ### slots
 - Slot1 = 조용진(당근마켓:서버개발) - 모임소개 / 개회사 / 발표주제
 - Slot2 = 한결(가천대 단대장) - 자유주제
-- Slot3 = 강경수(스타트업) - 가칭: 네이버 부스트캠프 이야기 [](./docs/20220222_kakasoo_how_to_study.pdf)
+- Slot3 = 강경수(스타트업) - 가칭: 네이버 부스트캠프 이야기 [Link](./docs/20220222_kakasoo_how_to_study.pdf)
 - Slot4 = 김승욱(당근마켓:프론트) - 자유주제
 
 ### gallary
