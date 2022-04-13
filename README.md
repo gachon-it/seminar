@@ -15,9 +15,9 @@
 - [모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
 
 ### slots
-- Slot1 = [모집중]
-- Slot2 = [모집중]
-- Slot3 = [모집중]
+- Slot1 = 최인규 - 게임 관련
+- Slot2 = 최재민 - 머신러닝 관련
+- Slot3 = 
 
 # [종료] 2번째 모임 (2022년 3월 29일 화요일 오후 8시)
 
