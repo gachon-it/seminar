@@ -9,6 +9,9 @@
 오픈카톡방: https://open.kakao.com/o/gxnZ4Z3b
 비밀번호: 갗대인만 아는거 그 건물: (****** TOWER)
 
+### 세미나 운영비용
+- 236,012 원 (2022년4월16일 기준)
+
 # 3번째 모임 (2022년 4월 26일 화요일 오후 8시)
 
 - [참가신청 Link](https://forms.gle/ny6C7AeZ4AE3RNiT7)
