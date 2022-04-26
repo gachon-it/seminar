@@ -15,7 +15,6 @@
 ### 세미나 운영비용
 
 - 2022년4월26일 기준
-![image](https://user-images.githubusercontent.com/10516961/165284918-c12cada4-e2ff-4c8c-896e-8b3cb1dfb4a3.png)
 
 # 3번째 모임 (2022년 4월 26일 화요일 오후 8시)
 
