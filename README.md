@@ -17,13 +17,13 @@
 - 2022년4월26일 기준
 - ![image](https://user-images.githubusercontent.com/10516961/165285227-5cb1f25d-2770-42ed-8b56-7c9cdb2d4702.png)
 
-
 # 3번째 모임 (2022년 4월 26일 화요일 오후 8시)
 
 - [참가신청 Link](https://forms.gle/ny6C7AeZ4AE3RNiT7)
 - [모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
 
 ### slots
+- Slot0 = 이정건 - 경력 개발방 모임 방향 공유
 - Slot1 = 조용진 - Elasticsearch에 대해 알아보자
 - Slot2 = 최인규 - 게임 관련
 
