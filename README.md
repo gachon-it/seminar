@@ -18,7 +18,19 @@
 - ![image](https://user-images.githubusercontent.com/10516961/165285227-5cb1f25d-2770-42ed-8b56-7c9cdb2d4702.png)
 
 
-# 5번째 모임 오프라인 전환 (2022년 6월 28일 화요일 오후 7시)
+# [종료] 6번째 모임 오프라인 전환 (2022년 6월 28일 화요일 오후 7시)
+
+- [참가신청 Link]([https://forms.gle/18TEtGss9ndBsu8y9](https://forms.gle/8APF7467eKqezg2JA))
+- [온라인 모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
+- [오프라인 모임장소 - 가천대학교 AI 공학관 411호]
+
+### slots
+- Slot1 = nogie(곧 군인) - 웹 해킹/보안 express 취약점 분석 [발표자료](https://docs.google.com/presentation/d/1jMj2OxOLMsvlY8adb_qrnR1r5NXKQMixnAcQWlj49AY/edit?usp=sharing) [블로그1](https://ez1o.tistory.com/9) [블로그2](https://ez1o.tistory.com/12)
+- Slot2 = 고준영(게임개발자) - (게임 개발자가 궁금하니!? Or NFT가 궁금하니?)
+- Slot3 = 심호진(무신사) - (요즘 취업에 도움이 되는 언어나 기술스택이 무엇이냐~)
+
+
+# [종료] 5번째 모임 오프라인 전환 (2022년 6월 28일 화요일 오후 7시)
 
 - [참가신청 Link]([https://forms.gle/18TEtGss9ndBsu8y9](https://forms.gle/8APF7467eKqezg2JA))
 - [온라인 모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
@@ -29,7 +41,7 @@
 - Slot2 = 고준영(게임개발자) - (게임 개발자가 궁금하니!? Or NFT가 궁금하니?)
 - Slot3 = 심호진(무신사) - (요즘 취업에 도움이 되는 언어나 기술스택이 무엇이냐~)
 
-# 4번째 모임 (2022년 5월 24일 화요일 오후 8시)
+# [종료] 4번째 모임 (2022년 5월 24일 화요일 오후 8시)
 
 - [참가신청 Link](https://forms.gle/18TEtGss9ndBsu8y9)
 - [모임장소 Link](https://app.gather.town/app/gzYJQgKQYV0JBWnS/gachon-it-career): 비밀번호는 참가한사람에게 이메일로 감
